@@ -62,5 +62,3 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 ## Show your support
 
 Give a ⭐️ if this project helped you!
-
-If you want the roadmap here is my roadmap: https://trello.com/b/EX8P8Ke9/br-server
